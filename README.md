@@ -18,3 +18,4 @@
 | ---------------------- |:-------------:|:-------------:|:-------------:|
 | Sort the Substring  |🟢| [🔗](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/tutorial/) ||
 | Bracket sequences  |🟢| [🔗](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/bracket-sequence-1-40eab940/) |⛔|
+| Final Value of Variable After Performing Operations  |🟢| [🔗](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) ||
