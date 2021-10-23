@@ -11,6 +11,7 @@
 | Remove Element  |🟢| [🔗](https://leetcode.com/problems/remove-element/) ||
 | Search Insert Position  |🟢| [🔗](https://leetcode.com/problems/search-insert-position/) ||
 | Maximum Subarray  |🟢| [🔗](https://leetcode.com/problems/maximum-subarray/) ||
+| Transpose Matrix  |🟢| [🔗](https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/tutorial/) ||
 
 
 ### 2. Strings
