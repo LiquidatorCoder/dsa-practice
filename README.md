@@ -12,6 +12,7 @@
 | Search Insert Position  |🟢| [🔗](https://leetcode.com/problems/search-insert-position/) |✔️|
 | Maximum Subarray  |🟢| [🔗](https://leetcode.com/problems/maximum-subarray/) |✔️|
 | Transpose Matrix  |🟢| [🔗](https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/tutorial/) |✔️|
+| Degree of an Array |🟢| [🔗](https://leetcode.com/problems/degree-of-an-array/) |✔️|
 
 
 ### 2. Strings
