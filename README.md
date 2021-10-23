@@ -13,6 +13,7 @@
 | Maximum Subarray  |🟢| [🔗](https://leetcode.com/problems/maximum-subarray/) |✔️|
 | Transpose Matrix  |🟢| [🔗](https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/tutorial/) |✔️|
 | Degree of an Array |🟢| [🔗](https://leetcode.com/problems/degree-of-an-array/) |✔️|
+| Monk and Inversions |🟢| [🔗](https://www.hackerearth.com/practice/codemonk/) |⛔|
 
 
 ### 2. Strings
