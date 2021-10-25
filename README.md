@@ -36,3 +36,4 @@
 | Problem                |Difiiculty| Link           | Solved |
 | ---------------------- |:-------------:|:-------------:|:-------------:|
 | Fibonacci Number |🟢| [🔗](https://leetcode.com/problems/fibonacci-number/) |✔️|
+| Climbing Stairs |🟢| [🔗](https://leetcode.com/problems/climbing-stairs/) |✔️|
