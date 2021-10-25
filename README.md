@@ -14,6 +14,7 @@
 | Transpose Matrix  |🟢| [🔗](https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/tutorial/) |✔️|
 | Degree of an Array |🟢| [🔗](https://leetcode.com/problems/degree-of-an-array/) |✔️|
 | Monk and Inversions |🟢| [🔗](https://www.hackerearth.com/practice/codemonk/) |⛔|
+| Contains Duplicate |🟢| [🔗](https://leetcode.com/problems/contains-duplicate) |✔️|
 
 
 ### 2. Strings
