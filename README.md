@@ -1,5 +1,6 @@
 # DSA
 
+## Data Structures
 ### 1. Arrays
 | Problem                |Difiiculty| Link           | Solved |
 | ---------------------- |:-------------:|:-------------:|:-------------:|
@@ -15,7 +16,6 @@
 | Degree of an Array |🟢| [🔗](https://leetcode.com/problems/degree-of-an-array/) |✔️|
 | Monk and Inversions |🟢| [🔗](https://www.hackerearth.com/practice/codemonk/) |⛔|
 | Contains Duplicate |🟢| [🔗](https://leetcode.com/problems/contains-duplicate) |✔️|
-| Binary Search |🟢| [🔗](https://leetcode.com/problems/binary-search/) |✔️|
 
 
 ### 2. Strings
@@ -24,3 +24,10 @@
 | Sort the Substring  |🟢| [🔗](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/tutorial/) |✔️|
 | Bracket sequences  |🟢| [🔗](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/bracket-sequence-1-40eab940/) |⛔|
 | Final Value of Variable After Performing Operations  |🟢| [🔗](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) |✔️|
+
+## Algos
+### 1. Binary Search
+| Problem                |Difiiculty| Link           | Solved |
+| ---------------------- |:-------------:|:-------------:|:-------------:|
+| Binary Search |🟢| [🔗](https://leetcode.com/problems/binary-search/) |✔️|
+| First Bad Version |🟢| [🔗](https://leetcode.com/problems/first-bad-version/) |✔️|
