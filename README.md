@@ -33,6 +33,11 @@
 | First Bad Version |🟢| [🔗](https://leetcode.com/problems/first-bad-version/) |✔️|
 | Search Insert Position  |🟢| [🔗](https://leetcode.com/problems/search-insert-position/) |✔️|
 
+### 2. Two Pointers
+| Problem                |Difiiculty| Link           | Solved |
+| ---------------------- |:-------------:|:-------------:|:-------------:|
+| Squares of a Sorted Array |🟢| [🔗](https://leetcode.com/problems/squares-of-a-sorted-array/) |✔️|
+
 ## Dynamic Programming
 | Problem                |Difiiculty| Link           | Solved |
 | ---------------------- |:-------------:|:-------------:|:-------------:|
