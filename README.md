@@ -37,6 +37,7 @@
 | Problem                |Difiiculty| Link           | Solved |
 | ---------------------- |:-------------:|:-------------:|:-------------:|
 | Squares of a Sorted Array |🟢| [🔗](https://leetcode.com/problems/squares-of-a-sorted-array/) |✔️|
+| Rotate Array |🟠| [🔗](https://leetcode.com/problems/rotate-array/) |✔️|
 
 ## Dynamic Programming
 | Problem                |Difiiculty| Link           | Solved |
