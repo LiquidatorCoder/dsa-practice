@@ -38,6 +38,7 @@
 | ---------------------- |:-------------:|:-------------:|:-------------:|
 | Squares of a Sorted Array |🟢| [🔗](https://leetcode.com/problems/squares-of-a-sorted-array/) |✔️|
 | Rotate Array |🟠| [🔗](https://leetcode.com/problems/rotate-array/) |✔️|
+| Move Zeroes |🟢| [🔗](https://leetcode.com/problems/move-zeroes/) |✔️|
 
 ## Dynamic Programming
 | Problem                |Difiiculty| Link           | Solved |
