@@ -16,6 +16,7 @@
 | Monk and Inversions |🟢| [🔗](https://www.hackerearth.com/practice/codemonk/) |⛔|
 | Contains Duplicate |🟢| [🔗](https://leetcode.com/problems/contains-duplicate) |✔️|
 | Merge Sorted Array |🟢| [🔗](https://leetcode.com/problems/merge-sorted-array/) |⛔|
+| Intersection of Two Arrays |🟢| [🔗](https://leetcode.com/problems/intersection-of-two-arrays/) |✔️|
 
 
 ### 2. Strings
