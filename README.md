@@ -39,6 +39,7 @@
 | Squares of a Sorted Array |🟢| [🔗](https://leetcode.com/problems/squares-of-a-sorted-array/) |✔️|
 | Rotate Array |🟠| [🔗](https://leetcode.com/problems/rotate-array/) |✔️|
 | Move Zeroes |🟢| [🔗](https://leetcode.com/problems/move-zeroes/) |✔️|
+| Two Sum II |🟢| [🔗](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |✔️|
 
 ## Dynamic Programming
 | Problem                |Difiiculty| Link           | Solved |
