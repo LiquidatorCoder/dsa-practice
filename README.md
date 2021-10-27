@@ -15,7 +15,7 @@
 | Degree of an Array |🟢| [🔗](https://leetcode.com/problems/degree-of-an-array/) |✔️|
 | Monk and Inversions |🟢| [🔗](https://www.hackerearth.com/practice/codemonk/) |⛔|
 | Contains Duplicate |🟢| [🔗](https://leetcode.com/problems/contains-duplicate) |✔️|
-| Merge Sorted Array |🟢| [🔗](https://leetcode.com/problems/merge-sorted-array/) |⛔|
+| Merge Sorted Array |🟢| [🔗](https://leetcode.com/problems/merge-sorted-array/) |✔️|
 | Intersection of Two Arrays |🟢| [🔗](https://leetcode.com/problems/intersection-of-two-arrays/) |✔️|
 | Intersection of Two Arrays II |🟢| [🔗](https://leetcode.com/problems/intersection-of-two-arrays-ii/) |✔️|
 | Best Time to Buy and Sell Stock |🟢| [🔗](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |⛔|
