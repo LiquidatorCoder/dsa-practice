@@ -45,6 +45,7 @@
 | Rotate Array |🟠| [🔗](https://leetcode.com/problems/rotate-array/) |✔️|
 | Move Zeroes |🟢| [🔗](https://leetcode.com/problems/move-zeroes/) |✔️|
 | Two Sum II |🟢| [🔗](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |✔️|
+| Reverse String |🟢| [🔗](https://leetcode.com/problems/reverse-string/) |✔️|
 
 ## Dynamic Programming
 | Problem                |Difiiculty| Link           | Solved |
