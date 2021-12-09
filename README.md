@@ -30,6 +30,11 @@
 | Bracket sequences  |🟢| [🔗](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/bracket-sequence-1-40eab940/) |⛔|
 | Final Value of Variable After Performing Operations  |🟢| [🔗](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) |✔️|
 
+### 3. Linked List
+| Problem                |Difiiculty| Link           | Solved |
+| ---------------------- |:-------------:|:-------------:|:-------------:|
+| Convert Binary Number in a Linked List to Integer  |🟢| [🔗](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) |✔️|
+
 ## Algos
 ### 1. Binary Search
 | Problem                |Difiiculty| Link           | Solved |
