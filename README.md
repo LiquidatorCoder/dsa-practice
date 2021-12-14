@@ -36,6 +36,7 @@
 | Convert Binary Number in a Linked List to Integer  |🟢| [🔗](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) |✔️|
 | Middle of the Linked List  |🟢| [🔗](https://leetcode.com/problems/middle-of-the-linked-list/) |✔️|
 | Delete the Middle Node of a Linked List  |🟠| [🔗](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) |✔️|
+| Swap Nodes in Pairs  |🟠| [🔗](https://leetcode.com/problems/swap-nodes-in-pairs/) |✔️|
 
 ## Algos
 ### 1. Binary Search
