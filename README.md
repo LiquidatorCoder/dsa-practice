@@ -21,6 +21,7 @@
 | Best Time to Buy and Sell Stock |🟢| [🔗](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |✔️|
 | Convert 1D Array Into 2D Array |🟢| [🔗](https://leetcode.com/problems/convert-1d-array-into-2d-array/) |✔️|
 | Reshape the Matrix |🟢| [🔗](https://leetcode.com/problems/reshape-the-matrix/) |✔️|
+| Subsets |🟠| [🔗](https://leetcode.com/problems/subsets/) |✔️|
 
 
 ### 2. Strings
