@@ -56,9 +56,19 @@
 | Two Sum II |🟢| [🔗](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |✔️|
 | Reverse String |🟢| [🔗](https://leetcode.com/problems/reverse-string/) |✔️|
 
-## Dynamic Programming
+### 3. Backtracking
+| Problem                |Difiiculty| Link           | Solved |
+| ---------------------- |:-------------:|:-------------:|:-------------:|
+| Subsets |🟠| [🔗](https://leetcode.com/problems/subsets/) |✔️|
+
+### 4. Dynamic Programming
 | Problem                |Difiiculty| Link           | Solved |
 | ---------------------- |:-------------:|:-------------:|:-------------:|
 | Fibonacci Number |🟢| [🔗](https://leetcode.com/problems/fibonacci-number/) |✔️|
 | Climbing Stairs |🟢| [🔗](https://leetcode.com/problems/climbing-stairs/) |✔️|
 | N-th Tribonacci Number |🟢| [🔗](https://leetcode.com/problems/n-th-tribonacci-number/) |✔️|
+
+### 5. Bit manipulation
+| Problem                |Difiiculty| Link           | Solved |
+| ---------------------- |:-------------:|:-------------:|:-------------:|
+| Subsets |🟠| [🔗](https://leetcode.com/problems/subsets/) |✔️|
