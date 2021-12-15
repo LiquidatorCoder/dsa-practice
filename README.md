@@ -38,6 +38,7 @@
 | Middle of the Linked List  |🟢| [🔗](https://leetcode.com/problems/middle-of-the-linked-list/) |✔️|
 | Delete the Middle Node of a Linked List  |🟠| [🔗](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) |✔️|
 | Swap Nodes in Pairs  |🟠| [🔗](https://leetcode.com/problems/swap-nodes-in-pairs/) |✔️|
+| Remove Nth Node From End of List  |🟠| [🔗](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |✔️|
 
 ## Algos
 ### 1. Binary Search
@@ -55,6 +56,7 @@
 | Move Zeroes |🟢| [🔗](https://leetcode.com/problems/move-zeroes/) |✔️|
 | Two Sum II |🟢| [🔗](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |✔️|
 | Reverse String |🟢| [🔗](https://leetcode.com/problems/reverse-string/) |✔️|
+| Remove Nth Node From End of List  |🟠| [🔗](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |✔️|
 
 ### 3. Recursion/Backtracking
 | Problem                |Difiiculty| Link           | Solved |
