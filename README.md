@@ -41,6 +41,11 @@
 | Swap Nodes in Pairs  |🟠| [🔗](https://leetcode.com/problems/swap-nodes-in-pairs/) |✔️|
 | Remove Nth Node From End of List  |🟠| [🔗](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |✔️|
 
+### 4. Tree
+| Problem                |Difiiculty| Link           | Solved |
+| ---------------------- |:-------------:|:-------------:|:-------------:|
+| Binary Tree Inorder Traversal  |🟢| [🔗](https://leetcode.com/problems/binary-tree-inorder-traversal/) |✔️|
+
 ## Algos
 ### 1. Binary Search
 | Problem                |Difiiculty| Link           | Solved |
