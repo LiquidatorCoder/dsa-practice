@@ -45,6 +45,7 @@
 | Problem                |Difiiculty| Link           | Solved |
 | ---------------------- |:-------------:|:-------------:|:-------------:|
 | Binary Tree Inorder Traversal  |🟢| [🔗](https://leetcode.com/problems/binary-tree-inorder-traversal/) |✔️|
+| Binary Tree Preorder Traversal  |🟢| [🔗](https://leetcode.com/problems/binary-tree-preorder-traversal/) |✔️|
 
 ## Algos
 ### 1. Binary Search
