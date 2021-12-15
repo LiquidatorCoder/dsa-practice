@@ -56,10 +56,11 @@
 | Two Sum II |🟢| [🔗](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |✔️|
 | Reverse String |🟢| [🔗](https://leetcode.com/problems/reverse-string/) |✔️|
 
-### 3. Backtracking
+### 3. Recursion/Backtracking
 | Problem                |Difiiculty| Link           | Solved |
 | ---------------------- |:-------------:|:-------------:|:-------------:|
 | Subsets |🟠| [🔗](https://leetcode.com/problems/subsets/) |✔️|
+| Letter Case Permutation |🟠| [🔗](https://leetcode.com/problems/letter-case-permutation/) |✔️|
 
 ### 4. Dynamic Programming
 | Problem                |Difiiculty| Link           | Solved |
