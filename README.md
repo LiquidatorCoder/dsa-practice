@@ -47,6 +47,7 @@
 | Binary Tree Inorder Traversal  |🟢| [🔗](https://leetcode.com/problems/binary-tree-inorder-traversal/) |✔️|
 | Binary Tree Preorder Traversal  |🟢| [🔗](https://leetcode.com/problems/binary-tree-preorder-traversal/) |✔️|
 | Binary Tree Postorder Traversal  |🟢| [🔗](https://leetcode.com/problems/binary-tree-postorder-traversal/) |✔️|
+| Two Sum IV - Input is a BST  |🟢| [🔗](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) |✔️|
 
 ## Algos
 ### 1. Binary Search
