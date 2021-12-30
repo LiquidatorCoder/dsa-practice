@@ -41,6 +41,7 @@
 | Delete the Middle Node of a Linked List  |🟠| [🔗](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) |✔️|
 | Swap Nodes in Pairs  |🟠| [🔗](https://leetcode.com/problems/swap-nodes-in-pairs/) |✔️|
 | Remove Nth Node From End of List  |🟠| [🔗](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |✔️|
+| Remove Duplicates from Sorted List  |🟢| [🔗](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |✔️|
 
 ### 4. Tree
 | Problem                |Difiiculty| Link           | Solved |
